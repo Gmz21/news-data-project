@@ -29,6 +29,7 @@ trend_per_month/
 # Jupyter
 # =========================
 .ipynb_checkpoints/
+share/
 
 # =========================
 # VS Code
