@@ -35,6 +35,8 @@ En flujo del pipeline es el siguiente:
 6. Para la carga de toda la data, se realiza una conexión a la base de datos NewsDB creada en SQL Server.
 7. Finalmente, el proceso es orquestado desde <i>main.py</i>.
 
+<img src="assets/diagram.png">
+
 #### Database:
 
 Con las tablas en la base de datos NewsDB en SQL Server, se procede a crear las relaciones entre las mismas:
