@@ -4,6 +4,10 @@ Las fuentes principales son:
 - News API
 - Logo.dev
 
+## Dashboard:
+Link del dashboard realizado en PowerBI:
+<https://app.powerbi.com/view?r=eyJrIjoiN2Q4ZDI0N2QtYWRmZS00ZTI5LWE3Y2EtZTc3N2IwZjcyMzc5IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9&pageName=c535ac502ad5a855a6e9>
+
 #### Objetivos:
 1. Construir un pipeline ETL que integre múltiples fuentes externas.
 2. Normalizar y almacenar la información en una base de datos relacional.
